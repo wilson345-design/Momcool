@@ -5,7 +5,7 @@ interface StrengthSectionProps {
 function StrengthSection({ onNext }: StrengthSectionProps) {
   const images = [
     {
-      src: 'https://images.pexels.com/photos/3768131/pexels-photo-3768131.jpeg?auto=compress&cs=tinysrgb&w=800',
+      src: 'https://photos.app.goo.gl/Nr4mPiBf6K5pGfAZ8',
       caption: 'Your strength has been my foundation',
       description: 'Through every challenge, you stood tall and resilient'
     },
