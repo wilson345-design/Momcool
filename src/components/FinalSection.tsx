@@ -11,7 +11,7 @@ function FinalSection() {
           <p className="final-text">Thank you for everything.</p>
           <p className="final-text">I am forever grateful.</p>
           <div className="final-signature">
-            <p>Your loving son</p>
+            <p>Your loving son Wil💓</p>
             <Heart className="signature-heart" fill="currentColor" />
           </div>
         </div>
