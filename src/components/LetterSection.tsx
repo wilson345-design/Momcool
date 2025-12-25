@@ -40,7 +40,7 @@ function LetterSection({ onNext }: LetterSectionProps) {
             </p>
             <p className="letter-signature">
               Forever grateful,<br />
-              Your son
+              Your son Wilson ❣️
             </p>
           </div>
           <button className="elegant-button" onClick={onNext}>
