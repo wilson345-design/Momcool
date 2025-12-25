@@ -5,12 +5,12 @@ interface StrengthSectionProps {
 function StrengthSection({ onNext }: StrengthSectionProps) {
   const images = [
     {
-      src: 'https://raw.githubusercontent.com/wilson345-design/Momcool/main/Screenshot_20201003-235059_Vault.jpg',
+      src: 'https://raw.githubusercontent.com/wilson345-design/Momcool/main/Screenshot_20251225_110707_Photos.jpg',
       caption: 'Your strength has been my foundation',
       description: 'Through every challenge, you stood tall and resilient'
     },
     {
-      src: 'https://raw.githubusercontent.com/wilson345-design/Momcool/main/aa8aa6d9-e5a2-4430-ae2d-c15acf308814-5861c8a3-847c-42b0-a9f3-18ad3023af95~2.jpg',
+      src: 'https://raw.githubusercontent.com/wilson345-design/Momcool/main/Screenshot_20201003-235059_Vault.jpg',
       caption: 'Every sacrifice built my future',
       description: 'From my first day of school to campus, you made it possible'
     }
